@@ -39,4 +39,5 @@
     - [Authorization Check](sap-tables/authorization-check.md)
     - [Check the File path](sap-tables/configure-file-path.md)
     - [Check the configuration entries](sap-tables/check-config-table.md)
+    - [Data Loss Error](sap-tables/data-loss-error.md)
 - [SAP Incorta Integration](configure-sap-incorta-server.md)
