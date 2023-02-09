@@ -8,19 +8,20 @@
   - [ECC 700](servers/ecc-700.md)
 - [Install SAP Plugins](install-sap-plugins.md)
 - Incorta Configurations
-
   - [Set up Extraction User](general/sap-table-ext-user.md)
   - [Create Role](general/sap-create-role.md)
     - [S_RFC](general/auth-srfc.md)
     - [S_TCODE](general/auth-stcode.md)
     - [S_BTCH_ADM](general/auth-btchadm.md)
     - [S_BTCH_JOB](general/auth-btchjob.md)
-    - [S_DATASET](general/auth-dataset.md)
-    - [S_LOG_COM](general/auth-log.md)
+    - [S_DATASET(Obsolete)](general/auth-dataset.md)
+    - [S_LOG_COM(Obsolete)](general/auth-log.md)
     - [S_TABU_DIS](general/auth-tab-dis.md)
     - [S_TABU_NAM](general/auth-tab-name.md)
   - [Assign Role to user](general/assign-user-role.md)
-
+  - [Create an RFC Destination](general/create-rfc-destination.md)
+  - [Profile Parameters](general/profile-parameters.md)
+  - [RFC Callback Whitelist](general/whitelist-rfc-callback.md)
 - SAP Table Extractor
   - [Transport Files](transport-files.md)
     - [S4 1809 Transports](transport-1809.md)
@@ -39,5 +40,4 @@
     - [Authorization Check](sap-tables/authorization-check.md)
     - [Check the File path](sap-tables/configure-file-path.md)
     - [Check the configuration entries](sap-tables/check-config-table.md)
-    - [Data Loss Error](sap-tables/data-loss-error.md)
 - [SAP Incorta Integration](configure-sap-incorta-server.md)

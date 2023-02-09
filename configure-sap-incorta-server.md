@@ -1,12 +1,10 @@
 # Configure SAP Server in Incorta
 
-Open the Incorta Analytics server and login to the tennat.
+Open the Incorta Analytics server and login to the tennat..
 
-For this documentation, i am going to use the following server.
-
-**Incorta Server**: http://35.162.194.145:8080/incorta/#/login
-
-**Tenant name**: sapecc740_conntest_async_sd
+Example:
+Incorta Server: http://35.162.194.145:8080/incorta/#/login
+Tenant name: sapecc740_conntest_async_sd
 
 Use your user credentials to login to the incorta analytics server.
 
